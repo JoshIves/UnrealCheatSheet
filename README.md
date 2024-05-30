@@ -2,7 +2,7 @@ Welcome to my Unreal Cheat Sheet. This document serves as a collection of the ti
 > [!TIP]
 > Use the hamburger menu to view the table of contents.
 
-[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) |
+[Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) |
 [Official Formatting Guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) |
 [Emojis](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
