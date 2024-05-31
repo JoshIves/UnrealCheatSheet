@@ -9,6 +9,11 @@ Welcome to my Unreal Cheat Sheet. This document serves as a collection of the ti
 ------
 ## Landscapes
 - TODO: https://www.youtube.com/watch?v=rOQE5kzNENI
+### Troubleshooting
+- Landscapes are showing gray squares.
+  - Edit the landscape materials
+  - Select the Texture Samples
+  - Details > Material Expression > Sample Source = Shared Wrap
 
 
 ## Packed Level Actor & Level Instance
