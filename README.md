@@ -16,5 +16,8 @@ Welcome to my Unreal Cheat Sheet. This document serves as a collection of the ti
   - Details > Material Expression > Sample Source = Shared Wrap
 
 
-## Packed Level Actor & Level Instance
+## Packed Level Actor
 - Combines actors together into a single instance that can be reused.
+
+## Level Instance
+- An entire level can be brought in as an instance within another level.
