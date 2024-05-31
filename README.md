@@ -7,6 +7,8 @@ Welcome to my Unreal Cheat Sheet. This document serves as a collection of the ti
 [Emojis](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
 ------
+# Level Creation
+
 ## Landscapes
 - TODO: https://www.youtube.com/watch?v=rOQE5kzNENI
 ### Troubleshooting
@@ -14,7 +16,6 @@ Welcome to my Unreal Cheat Sheet. This document serves as a collection of the ti
   - Edit the landscape materials
   - Select the Texture Samples
   - Details > Material Expression > Sample Source = Shared Wrap
-
 
 ## Packed Level Actor
 - Combines actors together into a single instance that can be reused.
